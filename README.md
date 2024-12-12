@@ -8,8 +8,9 @@ I'm good at finding any logical or visual bugs and fixing them. You can call me 
 If you're looking for a cooperative & detail-oriented intern, I'm here for you.
 <br />
 
+---
 
-## Language and Tools
+## Languages and Tools
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
