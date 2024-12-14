@@ -1,15 +1,12 @@
 # Yonhi Do (a.k.a. dgdoyh)
 
-Hello, world! <br />
-Welcome to my GitHub. <br /><br />
-I'm Yonhi, a Computer Science (especially, Video Game Programming) student at Collège LaSalle in Montréal. <br />
-I'm seeking an Gameplay / UI programmer internship now. <br />
-I'm good at finding any logical or visual bugs and fixing them. You can call me a code polisher. 🧑‍🔧 <br />
-If you're looking for a cooperative & detail-oriented intern, I'm here for you. <br />
+- Computer Science - Video Game Programming student at Collège LaSalle Montréal (DEC) <br />
+- Currently seeking an Gameplay / UI programmer internship <br />
+- Good at finding logical or visual bugs and fixing them. You can call me a code polisher 🧑‍🔧 <br />
 <br />
-LinkedIn: [https://www.linkedin.com/in/yonhi-do/](https://www.linkedin.com/in/yonhi-do/)
+If you're looking for a cooperative & detail-oriented intern, I'm here for you! <br />
 
-<br />
+📩 LinkedIn: [https://www.linkedin.com/in/yonhi-do/](https://www.linkedin.com/in/yonhi-do/)
 
 ---
 
