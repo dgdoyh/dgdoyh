@@ -1,5 +1,5 @@
 # Yonhi Do (a.k.a. dgdoyh)
-Another account for my school projects : @sadoyh (I worked on some projects with this account, but you can see them here as well.)
+
 
 - Computer Science - Video Game Programming student at Collège LaSalle Montréal (DEC) <br />
 - Currently seeking an Gameplay / UI programmer internship <br />
