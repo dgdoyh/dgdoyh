@@ -85,7 +85,7 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 >
 >> ### Gameplay Video 
 >> 
->> [![Where Is Igloo? - Gameplay](https://ytcards.demolab.com/?id=ZxOaRR7jKgA&title=Where+Is+My+Igloo?+-+Gameplay&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=52 "Where Is Igloo? - Gameplay")](https://www.youtube.com/watch?v=ZxOaRR7jKgA)
+>> [![Where Is Igloo? - Gameplay](https://ytcards.demolab.com/?id=ZxOaRR7jKgA&title=Where+Is+My+Igloo?+-+Gameplay&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=400&border_radius=5&duration=52 "Where Is Igloo? - Gameplay")](https://www.youtube.com/watch?v=ZxOaRR7jKgA)
 >
 >> ### Screenshots
 >>
