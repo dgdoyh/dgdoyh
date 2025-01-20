@@ -2,8 +2,8 @@
 
 
 - Computer Science - Video Game Programming student at Collège LaSalle Montréal (DEC) <br />
-- Currently seeking an Gameplay / Animation / UI programmer internship <br />
-- Confident in finding logical or visual bugs and fixing them 🔧 <br />
+- Currently seeking a Gameplay/Animation/UI Programmer Internship <br />
+- Confident in identifying and fixing logical or visual bugs 🔧 <br />
 
 <br />
 If you're looking for a cooperative & detail-oriented intern, I'm here for you! <br />
@@ -35,12 +35,10 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 >> - Contributions:
 >>   - Functions: Inventory (Stack, Sort), Shop (Sell, Sort, Upgrade Fishing Rod), Interaction, Dialogue
 >>   - UI: Interaction, Fishing Success, Fishing Rod Upgrading, Dialogue, Inventory, Shop, Title Scene
->>   - VFX: UI animations
+>>   - VFX: UI Animations
 >>   - SFX: BGM, Fishing Failure, Inventory, Shop
 >>   - Game Content Design: Secret Code, Map Edge Collision Event
 >>   - Miscellaneous: Fish Data Structure, Interaction Interface, Playtesting, Polishing
->
-> <br />
 >
 >> ### Gameplay Video 
 >> 
@@ -66,8 +64,6 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 >>   - Game Content Design: Tutorial Scene, Game Concept (Planets with different events)
 >>   - Miscellaneous: Leading the Team, Managing Project Progression, Improving Teamwork through Communication, Playtesting, Fixing Bugs, Polishing
 >
-> <br />
->
 >> ### Gameplay Video 
 >> 
 >> [![Cosmo Ranger - Gameplay](https://ytcards.demolab.com/?id=1jJAs72NPn4&title=Cosmo+Ranger+-+Gameplay&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=&width=400&border_radius=5&duration=177 "Cosmo Ranger - Gameplay")](https://youtu.be/1jJAs72NPn4?si=MMH90hk0EQx3Eu0W)
@@ -87,15 +83,12 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 >>   - Functions: Drawing Map Based on Text File, Character Movement, Pathfinding (A* Algorithm), Game Events (Getting Damaged, Healing, Wall Breaking, Game Over, Game Complete)
 >>   - UI: All UI in the Game (using given images)
 >
-> <br />
->
 >> ### Gameplay Video 
 >> 
 >> [![Where Is Igloo? - Gameplay](https://ytcards.demolab.com/?id=ZxOaRR7jKgA&title=Where+Is+My+Igloo?+-+Gameplay&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=52 "Where Is Igloo? - Gameplay")](https://www.youtube.com/watch?v=ZxOaRR7jKgA)
 >
 >> ### Screenshots
 >>
->> <img src="https://github.com/user-attachments/assets/795c6949-36b6-4a8d-bb23-1a84c87bc174" height="150"/>
->> <img src="https://github.com/user-attachments/assets/f4947431-e36f-4a3b-b32b-8843a5aac6ac" height="150"/>
->> <img src="https://github.com/user-attachments/assets/be311eb0-4db6-4cf3-a150-8dd57e277b75" height="150"/>
+>> <img src="https://github.com/user-attachments/assets/43af551e-4c61-49b8-aaf7-76c01e829508" height="150"/>
+>> <img src="https://github.com/user-attachments/assets/2552ea7d-b1d1-41ea-b090-6227d90d147e" height="150"/>
 
