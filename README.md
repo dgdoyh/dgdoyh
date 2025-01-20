@@ -32,7 +32,8 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 >> ### Description
 >> - Submitted to *Game Off 2024 by GitHub, Lee Reilly* (https://itch.io/jam/game-off-2024/rate/3147780)
 >> - Description: 3D Top-Down Fishing Game (Unreal Engine, Blueprint)
->> - Contributions:
+>> - Co-Contributor: @Hariiiy
+>> - My Contributions:
 >>   - Functions: Inventory (Stack, Sort), Shop (Sell, Sort, Upgrade Fishing Rod), Interaction, Dialogue
 >>   - UI: Interaction, Fishing Success, Fishing Rod Upgrading, Dialogue, Inventory, Shop, Title Scene
 >>   - VFX: UI Animations
@@ -55,7 +56,8 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 > ## Cosmo Ranger
 >> ### Description
 >> - Description: 3D Third-Person RPG (Unity, C#)
->> - Contributions:
+>> - Co-Contributors: (I worked as @sadoyh) @Manthan8567, @ocampo2001k
+>> - My Contributions:
 >>   - Functions: Character Movement, Enemy State Machine (Patrolling, Chasing, Attacking, Getting Damaged, Death), Managing HP and EXP, Scene Switching with Player Stats Data, Enemy Item Spawning, UI On/Off, Cinematics, Dialogue System, Quest System, HP-Reducing Events with Timer, Leveling Up, Updating Player Stats Based on Level
 >>   - UI: Main Menu, Dialogue, Pause Menu, Quest Progression, HP/EXP Bars
 >>   - Animations: Enemy Death (using ragdoll), Walking, Running, Attacking, Getting Damaged
@@ -79,7 +81,7 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 > ## Where Is Igloo?
 >> ### Description
 >> - Description: 2D Maze Game (WinForms, C#)
->> - Contributions:
+>> - My Contributions:
 >>   - Functions: Drawing Map Based on Text File, Character Movement, Pathfinding (A* Algorithm), Game Events (Getting Damaged, Healing, Wall Breaking, Game Over, Game Complete)
 >>   - UI: All UI in the Game (using given images)
 >
