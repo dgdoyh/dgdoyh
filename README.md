@@ -31,12 +31,17 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 > ## Fishin
 >> ### Description
 >> - Submitted to *Game Off 2024 by GitHub, Lee Reilly* (https://itch.io/jam/game-off-2024/rate/3147780)
->> - Description: 3D Top-Down Fishing Game (Unreal Engine, Blueprint)
+>> - Genre: 3D Top-Down Fishing Game (Unreal Engine, Blueprint)
+>> - Note: This is my first project in Unreal. I focus on polishing 
 >> - Co-Contributor: @Hariiiy
 >> - My Contributions:
->>   - Functions: Inventory (Stack, Sort), Shop (Sell, Sort, Upgrade Fishing Rod), Interaction, Dialogue
->>   - UI: Interaction, Fishing Success, Fishing Rod Upgrading, Dialogue, Inventory, Shop, Title Scene
->>   - VFX: UI Animations
+>>   - Functions:
+>>     - Inventory (Stack, Sort), Shop (Sell, Sort, Upgrade Fishing Rod), Interaction, Dialogue
+>>     - Playtested and polished all functions in the game to prevent errors
+>>   - UI:
+>>     - Interaction, Fishing Success, Fishing Rod Upgrading, Dialogue, Inventory, Shop, Title Scene
+>>     - Implemented UI Animations for a more dynamic and fun user experience
+>>     - Implemented a more comfortable inventory system to reduce users' unnecessary tasks (automatic sorting, automatic setting of the next fish to sell)
 >>   - SFX: BGM, Fishing Failure, Inventory, Shop
 >>   - Game Content Design: Secret Code, Map Edge Collision Event
 >>   - Miscellaneous: Fish Data Structure, Interaction Interface, Playtesting, Polishing
@@ -55,16 +60,21 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 
 > ## Cosmo Ranger
 >> ### Description
->> - Description: 3D Third-Person RPG (Unity, C#)
->> - Co-Contributors: (I worked as @sadoyh) @Manthan8567, @ocampo2001k
->> - My Contributions:
->>   - Functions: Character Movement, Enemy State Machine (Patrolling, Chasing, Attacking, Getting Damaged, Death), Managing HP and EXP, Scene Switching with Player Stats Data, Enemy Item Spawning, UI On/Off, Cinematics, Dialogue System, Quest System, HP-Reducing Events with Timer, Leveling Up, Updating Player Stats Based on Level
->>   - UI: Main Menu, Dialogue, Pause Menu, Quest Progression, HP/EXP Bars
+>> - Genre: 3D Third-Person RPG (Unity, C#)
+>> - Note: This is my second Unity project (I worked as @sadoyh).
+>> - Duration: 3 months
+>> - Co-Contributors: @Manthan8567, @ocampo2001k
+>> - My Contributions & Used Skills:
+>>   - Functions:
+>>     - Character Movement, Enemy State Machine (Patrolling, Chasing, Attacking, Getting Damaged, Death), Managing HP and EXP, Scene Switching with Player Stats Data, Enemy Item Spawning, UI On/Off, Cinematics, Dialogue System, Quest System, HP-Reducing Events with Timer, Leveling Up, Updating Player Stats Based on Level
+>>     - Playtested and polished all functions in the game to prevent errors
+>>     - Various Data Structures and Design Patterns
+>>   - UI: Game Guide, Main Menu, Dialogue, Pause Menu, Quest Progression, HP/EXP Bars
 >>   - Animations: Enemy Death (using ragdoll), Walking, Running, Attacking, Getting Damaged
 >>   - VFX: Damage Effect, Heal Effect, Level Up Effect
 >>   - SFX: All SFX in the Game (Character Voices, Attacking Sounds, Damaging Sounds, BGM, Healing, Leveling Up, Upgrading Weapon Sound)
 >>   - Game Content Design: Tutorial Scene, Game Concept (Planets with different events)
->>   - Miscellaneous: Leading the Team, Managing Project Progression, Improving Teamwork through Communication, Playtesting, Fixing Bugs, Polishing
+>>   - Miscellaneous: Leading the Team, Managing Project Progression, Solving Teamwork Problems through Communication, Playtesting, Fixing Bugs, Polishing
 >
 >> ### Gameplay Video 
 >> 
@@ -78,10 +88,40 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 
 <br />
 
+> ## Chiling Island (In Progress)
+>> ### Description
+>> - Genre: 3D Third-Person Survival Game (Unreal Engine, C++)
+>> - Note: This project is in progress. I've implemented animations based on various player statuses and weapon types so far.
+>> - My Contributions & Used Skills:
+>>   - Animation:
+>>     - Idle, Idle Jump, Running Jump, Attacks, Arm, Disarm, Falling; All animations are implemented differently based on Unarmed, One-Handed Weapon Armed, and Two-Handed Weapon Armed status
+>>     - 3D Animation Programming
+>>     - Foot IK(Control Rig)
+>>     - Animation Adjustment by Adding Additive Bone Transform
+>>     - Animation Events (Animation Montage)
+>>   - SFX:
+>>     - Footstep Sound, Player Attack Voice, Weapon Swinging Sound
+>>     - Randomized sounds and volumes to make SFX feel more dynamic, used with animation montage notify to play SFX at the right timing
+>>   - VFX:
+>>     - Dust Particles (Niagara System)
+>>     - Linked with Animation Montage Notify to play VFX at the right timing and the right position
+>
+>> ### Gameplay Video 
+>> 
+>> [![Chiling Island (In Progress) - Gameplay](https://ytcards.demolab.com/?id=2m8qAjElwCE&title=Chiling+Island+(In+Progress)+-+Gameplay&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=400&border_radius=5&duration=68 "Chiling Island (In Progress) - Gameplay")](https://www.youtube.com/watch?v=2m8qAjElwCE)
+>
+>> ### Screenshots
+>>
+>> <img src="https://github.com/user-attachments/assets/d541c511-073b-4f0c-bb28-4e238b8fc661" height="150"/>
+>> <img src="https://github.com/user-attachments/assets/5ee45088-eb6f-412f-9844-5ff7735357f3" height="150"/>
+>> <img src="https://github.com/user-attachments/assets/7eaa37f8-9211-464e-9555-ac4a30cc2d8c" height="150"/>
+
+<br />
+
 > ## Where Is Igloo?
 >> ### Description
->> - Description: 2D Maze Game (WinForms, C#)
->> - My Contributions:
+>> - Genre: 2D Maze Game (WinForms, C#)
+>> - My Contributions & Used Skill:
 >>   - Functions: Drawing Map Based on Text File, Character Movement, Pathfinding (A* Algorithm), Game Events (Getting Damaged, Healing, Wall Breaking, Game Over, Game Complete)
 >>   - UI: All UI in the Game (using given images)
 >
