@@ -32,16 +32,16 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 >> ### Description
 >> - Submitted to *Game Off 2024 by GitHub, Lee Reilly* (https://itch.io/jam/game-off-2024/rate/3147780)
 >> - Genre: 3D Top-Down Fishing Game (Unreal Engine, Blueprint)
->> - Note: This is my first project in Unreal. I focus on polishing 
+>> - Duration: 1 month
 >> - Co-Contributor: @Hariiiy
 >> - My Contributions:
 >>   - Functions:
 >>     - Inventory (Stack, Sort), Shop (Sell, Sort, Upgrade Fishing Rod), Interaction, Dialogue
+>>     - Implemented a more comfortable inventory system to reduce users' unnecessary tasks (automatic sorting, automatic setting of the next fish to sell)
 >>     - Playtested and polished all functions in the game to prevent errors
 >>   - UI:
 >>     - Interaction, Fishing Success, Fishing Rod Upgrading, Dialogue, Inventory, Shop, Title Scene
 >>     - Implemented UI Animations for a more dynamic and fun user experience
->>     - Implemented a more comfortable inventory system to reduce users' unnecessary tasks (automatic sorting, automatic setting of the next fish to sell)
 >>   - SFX: BGM, Fishing Failure, Inventory, Shop
 >>   - Game Content Design: Secret Code, Map Edge Collision Event
 >>   - Miscellaneous: Fish Data Structure, Interaction Interface, Playtesting, Polishing
@@ -61,7 +61,7 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 > ## Cosmo Ranger
 >> ### Description
 >> - Genre: 3D Third-Person RPG (Unity, C#)
->> - Note: This is my second Unity project (I worked as @sadoyh).
+>> - Note: Main repository: https://github.com/Manthan8567/Cosmo-Ranger (I worked as @sadoyh)
 >> - Duration: 3 months
 >> - Co-Contributors: @Manthan8567, @ocampo2001k
 >> - My Contributions & Used Skills:
@@ -92,6 +92,7 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 >> ### Description
 >> - Genre: 3D Third-Person Survival Game (Unreal Engine, C++)
 >> - Note: This project is in progress. I've implemented animations based on various player statuses and weapon types so far.
+>> - Duration: In progress
 >> - My Contributions & Used Skills:
 >>   - Animation:
 >>     - Idle, Idle Jump, Running Jump, Attacks, Arm, Disarm, Falling; All animations are implemented differently based on Unarmed, One-Handed Weapon Armed, and Two-Handed Weapon Armed status
@@ -113,13 +114,14 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 >> ### Screenshots
 >>
 >> <img src="https://github.com/user-attachments/assets/c368fa86-cbc9-4393-9b56-22520f30da20" height="150"/>
->> <img src="https://github.com/user-attachments/assets/ba226203-7f04-4daf-9ec7-8eb456d4f6ad" height="150"/>
+>> <img src="https://github.com/user-attachments/assets/7ca64a70-554c-4e88-b7d5-441f27bde8aa" height="150"/>
 
 <br />
 
 > ## Where Is Igloo?
 >> ### Description
 >> - Genre: 2D Maze Game (WinForms, C#)
+>> - Duration: 1 month
 >> - My Contributions & Used Skill:
 >>   - Functions: Drawing Map Based on Text File, Character Movement, Pathfinding (A* Algorithm), Game Events (Getting Damaged, Healing, Wall Breaking, Game Over, Game Complete)
 >>   - UI: All UI in the Game (using given images)
