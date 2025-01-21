@@ -112,9 +112,8 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 >
 >> ### Screenshots
 >>
->> <img src="https://github.com/user-attachments/assets/d541c511-073b-4f0c-bb28-4e238b8fc661" height="150"/>
->> <img src="https://github.com/user-attachments/assets/5ee45088-eb6f-412f-9844-5ff7735357f3" height="150"/>
->> <img src="https://github.com/user-attachments/assets/7eaa37f8-9211-464e-9555-ac4a30cc2d8c" height="150"/>
+>> <img src="https://github.com/user-attachments/assets/c368fa86-cbc9-4393-9b56-22520f30da20" height="150"/>
+>> <img src="https://github.com/user-attachments/assets/ba226203-7f04-4daf-9ec7-8eb456d4f6ad" height="150"/>
 
 <br />
 
