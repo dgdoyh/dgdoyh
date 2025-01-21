@@ -62,7 +62,7 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 > ## Cosmo Ranger
 >> ### Description
 >> - Genre: 3D Third-Person RPG (Unity, C#)
->> - Note: Main repository: https://github.com/Manthan8567/Cosmo-Ranger (I worked as @sadoyh)
+>> - Main repository: https://github.com/Manthan8567/Cosmo-Ranger (I worked as @sadoyh)
 >> - Duration: 3 months
 >> - Co-Contributors: @Manthan8567, @ocampo2001k
 >> - My Contributions & Used Skills:
