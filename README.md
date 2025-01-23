@@ -32,19 +32,58 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 >> ### Description
 >> - Submitted to *Game Off 2024 by GitHub, Lee Reilly* (https://itch.io/jam/game-off-2024/rate/3147780)
 >> - Genre: 3D Top-Down Fishing Game (Unreal Engine, Blueprint)
->> - Duration: 1 month
+>> - Status: Completed (Duration: 1 month)
 >> - Co-Contributor: @Hariiiy
->> - My Contributions:
->>   - Functions:
->>     - Inventory (Stack, Sort), Shop (Sell, Sort, Upgrade Fishing Rod), Interaction, Dialogue
->>     - Implemented a more comfortable inventory system to reduce users' unnecessary tasks (automatic sorting, automatic setting of the next fish to sell)
->>     - Playtested and polished all functions in the game to prevent errors
->>   - UI:
->>     - Interaction, Fishing Success, Fishing Rod Upgrading, Dialogue, Inventory, Shop, Title Scene
->>     - Implemented UI Animations for a more dynamic and fun user experience
->>   - SFX: BGM, Fishing Failure, Inventory, Shop
->>   - Game Content Design: Secret Code, Map Edge Collision Event
->>   - Miscellaneous: Fish Data Structure, Interaction Interface, Playtesting, Polishing
+>
+>> ### My Contributions
+>>   #### Game Functions
+>>     - Inventory:
+>>       - Stack items
+>>       - Sort items
+>>       - Implemented an automatic sorting system to reduce unnecessary tasks
+>>       - Automatic selection of the next fish to sell
+>>     - Shop:
+>>       - Sell items
+>>       - Sort items
+>>       - Upgrade fishing rod
+>>     - Interaction:
+>>       - Developed interaction mechanics with game elements
+>>     - Dialogue:
+>>       - Integrated dialogue system
+>>
+>>   #### UI
+>>     - Implemented UI for:
+>>       - Interaction
+>>       - Fishing success
+>>       - Fishing rod upgrading
+>>       - Dialogue
+>>       - Inventory
+>>       - Shop
+>>       - Title Scene
+>>     - UI Animations:
+>>       - Added animations to enhance user experience and make gameplay more dynamic and engaging
+>>
+>>   #### Sound Effects (SFX)
+>>     - Background Music (BGM)
+>>     - Fishing Failure Sound
+>>     - Inventory Sound
+>>     - Shop Sound
+>>
+>>   #### Game Content Design
+>>     - Secret Code:
+>>       - Created a secret code in the fish description
+>>     - Map Edge Collision Event:
+>>       - Designed an event for map edge collisions
+>>
+>>   #### Miscellaneous
+>>     - Fish Data Structure:
+>>       - Designed data structures for fish entities
+>>     - Interaction Interface:
+>>       - Developed an interface for player interactions with game objects
+>>     - Playtesting:
+>>       - Conducted extensive playtesting to identify and resolve issues
+>>     - Polishing:
+>>       - Refined and optimized game elements for a smoother user experience
 >
 >> ### Gameplay Video 
 >> 
@@ -63,19 +102,71 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 >> ### Description
 >> - Genre: 3D Third-Person RPG (Unity, C#)
 >> - Main repository: https://github.com/Manthan8567/Cosmo-Ranger (I worked as @sadoyh)
->> - Duration: 3 months
+>> - Status: Complete (Duration: 3 months)
 >> - Co-Contributors: @Manthan8567, @ocampo2001k
->> - My Contributions & Used Skills:
->>   - Functions:
->>     - Character Movement, Enemy State Machine (Patrolling, Chasing, Attacking, Getting Damaged, Death), Managing HP and EXP, Scene Switching with Player Stats Data, Enemy Item Spawning, UI On/Off, Cinematics, Dialogue System, Quest System, HP-Reducing Events with Timer, Leveling Up, Updating Player Stats Based on Level
->>     - Playtested and polished all functions in the game to prevent errors
->>     - Various Data Structures and Design Patterns
->>   - UI: Game Guide, Main Menu, Dialogue, Pause Menu, Quest Progression, HP/EXP Bars
->>   - Animations: Enemy Death (using ragdoll), Walking, Running, Attacking, Getting Damaged
->>   - VFX: Damage Effect, Heal Effect, Level Up Effect
->>   - SFX: All SFX in the Game (Character Voices, Attacking Sounds, Damaging Sounds, BGM, Healing, Leveling Up, Upgrading Weapon Sound)
->>   - Game Content Design: Tutorial Scene, Game Concept (Planets with different events)
->>   - Miscellaneous: Leading the Team, Managing Project Progression, Solving Teamwork Problems through Communication, Playtesting, Fixing Bugs, Polishing
+>
+>> ### My Contributions
+>>   #### Game Functions
+>>     - Character Movement
+>>     - Enemy State Machine:
+>>       - Patrolling
+>>       - Chasing
+>>       - Attacking
+>>       - Taking damage
+>>       - Death
+>>     - HP and EXP Management
+>>     - Scene Switching with Player Stats Data
+>>     - Enemy Item Spawning
+>>     - HP-Reducing Events with Timer
+>>     - Leveling Up & Player Stats Update:
+>>       - Leveling up and updating stats based on level
+>>     - Quests
+>>     - Dialogues
+>>
+>>   #### Animations
+>>     - Enemy Animations:
+>>       - Death (using ragdoll)
+>>       - Walking
+>>       - Running
+>>       - Attacking
+>>       - Getting Damaged
+>>
+>>   #### UI
+>>     - Game Guide
+>>     - Main Menu
+>>     - Pause Menu
+>>     - Dialogue Box
+>>     - Quest Progression
+>>     - HP/EXP Bars
+>>
+>>   #### Visual Effects (VFX)
+>>     - Damage Effect
+>>     - Heal Effect
+>> 
+>>   #### Sound Effects (SFX)
+>>     - Character Voices
+>>     - Attacking Sounds
+>>     - Damaging Sounds
+>>     - Healing Sounds
+>>     - Leveling Up Sound
+>>     - Weapon Upgrade Sound
+>>     - Background Music (BGM)
+>>
+>>   #### Game Content Design
+>>     - Tutorial Scene
+>>     - Game Concept
+>>       - Planets with different events
+>>
+>>   #### Miscellaneous
+>>     - Cinematics
+>>     - Playtesting & Polishing:
+>>       - Conducting playtests
+>>       - Fixing bugs
+>>       - Polishing the game
+>>     - Team Leadership:
+>>       - Leading the team
+>>       - Managing project progression
+>>       - Solving teamwork problems through communication
 >
 >> ### Gameplay Video 
 >> 
@@ -94,20 +185,41 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 >> ### Description
 >> - Genre: 3D Third-Person Survival Game (Unreal Engine, C++)
 >> - Note: This project is in progress. I've implemented animations based on various player statuses and weapon types so far.
->> - Duration: In progress
->> - My Contributions & Used Skills:
->>   - Animation:
->>     - Idle, Idle Jump, Running Jump, Attacks, Arm, Disarm, Falling; All animations are implemented differently based on Unarmed, One-Handed Weapon Armed, and Two-Handed Weapon Armed status
->>     - 3D Animation Programming
->>     - Foot IK(Control Rig)
->>     - Animation Adjustment by Adding Additive Bone Transform
->>     - Animation Events (Animation Montage)
->>   - SFX:
->>     - Footstep Sound, Player Attack Voice, Weapon Swinging Sound
->>     - Randomized sounds and volumes to make SFX feel more dynamic, used with animation montage notify to play SFX at the right timing
->>   - VFX:
->>     - Dust Particles (Niagara System)
->>     - Linked with Animation Montage Notify to play VFX at the right timing and the right position
+>> - Status: In progress
+>
+>> ### My Contributions
+>>   #### Game Functions
+>>     - Character Movement
+>>     - Player States:
+>>       - Idle
+>>       - Armed
+>>       - Disarmed
+>>       - Attacking
+>>       - Jumping
+>>       - Falling
+>>
+>>   #### Animations
+>>     - Player Animations:
+>>       - Idle Animations:
+>>         - Unarmed
+>>         - One-handed armed
+>>         - Two-handed armed
+>>       - Running Animation
+>>       - Jumping Animations:
+>>         - Idle Jump
+>>         - Running Jump
+>>       - Attacking Animations:
+>>         - Random attacks based on equipped weapon
+>>       - Arming Animations:
+>>         - One-handed
+>>         - Two-handed
+>>       - Disarming Animations:
+>>         - One-handed
+>>         - Two-handed
+>>
+>>   #### Miscellaneous
+>>     - Created Landscape
+>>       - Landscape Painting
 >
 >> ### Gameplay Video 
 >> 
@@ -124,10 +236,25 @@ Version Control Systems: **`Git`** **`Azure DevOps`**
 > ## Where Is Igloo?
 >> ### Description
 >> - Genre: 2D Maze Game (WinForms, C#)
->> - Duration: 1 month
->> - My Contributions & Used Skill:
->>   - Functions: Drawing Map Based on Text File, Character Movement, Pathfinding (A* Algorithm), Game Events (Getting Damaged, Healing, Wall Breaking, Game Over, Game Complete)
->>   - UI: All UI in the Game (using given images)
+>> - Status: Completed (Duration: 1 month)
+>
+>> ### My Contributions
+>>   #### Game Functions
+>>     - Drawing Map Based on Text File
+>>       - Used text file data to generate game maps dynamically
+>>     - Character Movement
+>>       - Developed mechanics for character movement within the game
+>>     - Pathfinding
+>>       - Implemented A* algorithm for efficient pathfinding
+>>     - Game Events:
+>>       - Getting Damaged
+>>       - Healing
+>>       - Wall Breaking
+>>       - Game Over
+>>       - Game Completion
+>>
+>>   #### Miscellaneous
+>>     - Player Images Based on Directions
 >
 >> ### Gameplay Video 
 >> 
