@@ -22,7 +22,7 @@ Game Engines: **`Unity`** **`Unreal Engine`**
 
 3D Modeling Program: **`Maya`** 
 
-Version Control Systems: **`Git`** **`Azure DevOps`**
+Version Control Systems: **`Git`**
 
 <br />
 
