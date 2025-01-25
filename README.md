@@ -2,7 +2,7 @@
 
 
 - Computer Science - Video Game Programming student at Collège LaSalle Montréal (DEC) <br />
-- Currently seeking a Gameplay/Animation/UI Programmer Internship <br />
+- Currently seeking a Gameplay/UI Programmer Internship <br />
 - Confident in identifying and fixing logical or visual bugs 🔧 <br />
 
 <br />
