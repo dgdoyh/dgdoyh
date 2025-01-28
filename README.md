@@ -35,6 +35,16 @@ Version Control Systems: **`Git`** **`GitHub`**
 >> - Status: Completed (Duration: 1 month)
 >> - Co-Contributor: @Hariiiy
 >
+>> ### Gameplay Video 
+>> 
+>> [![Fishin - Gameplay](https://ytcards.demolab.com/?id=Mv7gfqVRNNs&title=Fishin+-+Gameplay&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=400&border_radius=5&duration=172 "Fishin - Gameplay")](https://www.youtube.com/watch?v=Mv7gfqVRNNs)
+>
+>> ### Screenshots
+>>
+>> <img src="https://github.com/user-attachments/assets/d541c511-073b-4f0c-bb28-4e238b8fc661" height="150"/>
+>> <img src="https://github.com/user-attachments/assets/5ee45088-eb6f-412f-9844-5ff7735357f3" height="150"/>
+>> <img src="https://github.com/user-attachments/assets/7eaa37f8-9211-464e-9555-ac4a30cc2d8c" height="150"/>
+>
 >> ### My Contributions
 >>   #### Game Functions
 >>     - Inventory:
@@ -84,16 +94,6 @@ Version Control Systems: **`Git`** **`GitHub`**
 >>       - Conducted extensive playtesting to identify and resolve issues
 >>     - Polishing:
 >>       - Refined and optimized game elements for a smoother user experience
->
->> ### Gameplay Video 
->> 
->> [![Fishin - Gameplay](https://ytcards.demolab.com/?id=Mv7gfqVRNNs&title=Fishin+-+Gameplay&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=400&border_radius=5&duration=172 "Fishin - Gameplay")](https://www.youtube.com/watch?v=Mv7gfqVRNNs)
->
->> ### Screenshots
->>
->> <img src="https://github.com/user-attachments/assets/d541c511-073b-4f0c-bb28-4e238b8fc661" height="150"/>
->> <img src="https://github.com/user-attachments/assets/5ee45088-eb6f-412f-9844-5ff7735357f3" height="150"/>
->> <img src="https://github.com/user-attachments/assets/7eaa37f8-9211-464e-9555-ac4a30cc2d8c" height="150"/>
 
 <br />
 <br />
@@ -105,6 +105,16 @@ Version Control Systems: **`Git`** **`GitHub`**
 >> - Status: Complete (Duration: 3 months)
 >> - Co-Contributors: @Manthan8567, @ocampo2001k
 >
+>> ### Gameplay Video 
+>> 
+>> [![Cosmo Ranger - Gameplay](https://ytcards.demolab.com/?id=1jJAs72NPn4&title=Cosmo+Ranger+-+Gameplay&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=&width=400&border_radius=5&duration=177 "Cosmo Ranger - Gameplay")](https://youtu.be/1jJAs72NPn4?si=MMH90hk0EQx3Eu0W)
+>
+>> ### Screenshots
+>>
+>> <img src="https://github.com/user-attachments/assets/795c6949-36b6-4a8d-bb23-1a84c87bc174" height="150"/>
+>> <img src="https://github.com/user-attachments/assets/f4947431-e36f-4a3b-b32b-8843a5aac6ac" height="150"/>
+>> <img src="https://github.com/user-attachments/assets/be311eb0-4db6-4cf3-a150-8dd57e277b75" height="150"/>
+> 
 >> ### My Contributions
 >>   #### Game Functions
 >>     - Character Movement
@@ -167,16 +177,6 @@ Version Control Systems: **`Git`** **`GitHub`**
 >>       - Leading the team
 >>       - Managing project progression
 >>       - Solving teamwork problems through communication
->
->> ### Gameplay Video 
->> 
->> [![Cosmo Ranger - Gameplay](https://ytcards.demolab.com/?id=1jJAs72NPn4&title=Cosmo+Ranger+-+Gameplay&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=&width=400&border_radius=5&duration=177 "Cosmo Ranger - Gameplay")](https://youtu.be/1jJAs72NPn4?si=MMH90hk0EQx3Eu0W)
->
->> ### Screenshots
->>
->> <img src="https://github.com/user-attachments/assets/795c6949-36b6-4a8d-bb23-1a84c87bc174" height="150"/>
->> <img src="https://github.com/user-attachments/assets/f4947431-e36f-4a3b-b32b-8843a5aac6ac" height="150"/>
->> <img src="https://github.com/user-attachments/assets/be311eb0-4db6-4cf3-a150-8dd57e277b75" height="150"/>
 
 <br />
 <br />
@@ -186,6 +186,15 @@ Version Control Systems: **`Git`** **`GitHub`**
 >> - Genre: 3D Third-Person Survival Game (Unreal Engine, C++)
 >> - Note: This project is in progress. I've implemented animations based on various player statuses and weapon types so far.
 >> - Status: In progress
+>
+>> ### Gameplay Video 
+>> 
+>> [![Chiling Island (In Progress) - Gameplay](https://ytcards.demolab.com/?id=2m8qAjElwCE&title=Chiling+Island+(In+Progress)+-+Gameplay&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=400&border_radius=5&duration=68 "Chiling Island (In Progress) - Gameplay")](https://www.youtube.com/watch?v=2m8qAjElwCE)
+>
+>> ### Screenshots
+>>
+>> <img src="https://github.com/user-attachments/assets/c368fa86-cbc9-4393-9b56-22520f30da20" height="150"/>
+>> <img src="https://github.com/user-attachments/assets/7ca64a70-554c-4e88-b7d5-441f27bde8aa" height="150"/>
 >
 >> ### My Contributions
 >>   #### Game Functions
@@ -220,15 +229,6 @@ Version Control Systems: **`Git`** **`GitHub`**
 >>   #### Miscellaneous
 >>     - Created Landscape
 >>       - Landscape Painting
->
->> ### Gameplay Video 
->> 
->> [![Chiling Island (In Progress) - Gameplay](https://ytcards.demolab.com/?id=2m8qAjElwCE&title=Chiling+Island+(In+Progress)+-+Gameplay&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=400&border_radius=5&duration=68 "Chiling Island (In Progress) - Gameplay")](https://www.youtube.com/watch?v=2m8qAjElwCE)
->
->> ### Screenshots
->>
->> <img src="https://github.com/user-attachments/assets/c368fa86-cbc9-4393-9b56-22520f30da20" height="150"/>
->> <img src="https://github.com/user-attachments/assets/7ca64a70-554c-4e88-b7d5-441f27bde8aa" height="150"/>
 
 <br />
 <br />
@@ -237,6 +237,15 @@ Version Control Systems: **`Git`** **`GitHub`**
 >> ### Description
 >> - Genre: 2D Maze Game (WinForms, C#)
 >> - Status: Completed (Duration: 1 month)
+>
+>> ### Gameplay Video 
+>> 
+>> [![Where Is Igloo? - Gameplay](https://ytcards.demolab.com/?id=ZxOaRR7jKgA&title=Where+Is+My+Igloo?+-+Gameplay&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=400&border_radius=5&duration=52 "Where Is Igloo? - Gameplay")](https://www.youtube.com/watch?v=ZxOaRR7jKgA)
+>
+>> ### Screenshots
+>>
+>> <img src="https://github.com/user-attachments/assets/43af551e-4c61-49b8-aaf7-76c01e829508" height="150"/>
+>> <img src="https://github.com/user-attachments/assets/2552ea7d-b1d1-41ea-b090-6227d90d147e" height="150"/>
 >
 >> ### My Contributions
 >>   #### Game Functions
@@ -255,13 +264,3 @@ Version Control Systems: **`Git`** **`GitHub`**
 >>
 >>   #### Miscellaneous
 >>     - Player Images Based on Directions
->
->> ### Gameplay Video 
->> 
->> [![Where Is Igloo? - Gameplay](https://ytcards.demolab.com/?id=ZxOaRR7jKgA&title=Where+Is+My+Igloo?+-+Gameplay&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=400&border_radius=5&duration=52 "Where Is Igloo? - Gameplay")](https://www.youtube.com/watch?v=ZxOaRR7jKgA)
->
->> ### Screenshots
->>
->> <img src="https://github.com/user-attachments/assets/43af551e-4c61-49b8-aaf7-76c01e829508" height="150"/>
->> <img src="https://github.com/user-attachments/assets/2552ea7d-b1d1-41ea-b090-6227d90d147e" height="150"/>
-
