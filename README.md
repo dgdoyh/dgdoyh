@@ -20,7 +20,7 @@ Programming Languages: **`C#`** **`C++`** **`Java`** **`HTML`** **`CSS`** **`Jav
 
 Game Engines: **`Unity`** **`Unreal Engine`**
 
-3D Modeling Program: **`Maya`** 
+3D Modeling Program: **`Maya (Learning)`**
 
 Version Control Systems: **`Git`** **`GitHub`**
 
