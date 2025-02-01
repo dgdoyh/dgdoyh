@@ -94,6 +94,7 @@ Version Control Systems: **`Git`** **`GitHub`**
 >>       - Conducted extensive playtesting to identify and resolve issues
 >>     - Polishing:
 >>       - Refined and optimized game elements for a smoother user experience
+>> </details>
 
 <br />
 <br />
@@ -107,7 +108,7 @@ Version Control Systems: **`Git`** **`GitHub`**
 >
 >> ### Gameplay Video 
 >> 
->> [![Cosmo Ranger - Gameplay](https://ytcards.demolab.com/?id=1jJAs72NPn4&title=Cosmo+Ranger+-+Gameplay&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=&width=400&border_radius=5&duration=177 "Cosmo Ranger - Gameplay")](https://youtu.be/1jJAs72NPn4?si=MMH90hk0EQx3Eu0W)
+>> [![Cosmo Ranger - Gameplay](https://ytcards.demolab.com/?id=GtnCn88BGVQ&title=Cosmo+Ranger+-+Gameplay&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=&width=400&border_radius=5&duration=179 "Cosmo Ranger - Gameplay")](https://www.youtube.com/watch?v=GtnCn88BGVQ)
 >
 >> ### Screenshots
 >>
