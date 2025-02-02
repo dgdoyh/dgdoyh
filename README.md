@@ -3,7 +3,7 @@
 
 - Computer Science - Video Game Programming student at Collège LaSalle Montréal (DEC) <br />
 - Currently seeking a Gameplay/UI Programmer Internship <br />
-- Confident in identifying and fixing logical or visual bugs 🔧 <br />
+- Confident in identifying and fixing bugs 🔧 <br />
 
 <br />
 If you're looking for a cooperative & detail-oriented intern, I'm here for you! <br />
@@ -29,40 +29,95 @@ Version Control Systems: **`Git`** **`GitHub`**
 ## Projects
 
 > ## Fishin
->> ### Description
+>> ## Description
 >> - Submitted to *Game Off 2024 by GitHub, Lee Reilly* (https://itch.io/jam/game-off-2024/rate/3147780)
->> - Genre: 3D Top-Down Fishing Game (Unreal Engine, Blueprint)
+>> - Genre: 3D Top-Down Fishing Game with a Secret (Unreal Engine, Blueprint)
 >> - Status: Completed (Duration: 1 month)
 >> - Co-Contributor: @Hariiiy
 >
->> ### Gameplay Video 
+>> ## Gameplay Video 
 >> 
 >> [![Fishin - Gameplay](https://ytcards.demolab.com/?id=Mv7gfqVRNNs&title=Fishin+-+Gameplay&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=400&border_radius=5&duration=172 "Fishin - Gameplay")](https://www.youtube.com/watch?v=Mv7gfqVRNNs)
 >
->> ### Screenshots
+>> ## Screenshots
 >>
 >> <img src="https://github.com/user-attachments/assets/d541c511-073b-4f0c-bb28-4e238b8fc661" height="150"/>
 >> <img src="https://github.com/user-attachments/assets/5ee45088-eb6f-412f-9844-5ff7735357f3" height="150"/>
->> <img src="https://github.com/user-attachments/assets/7eaa37f8-9211-464e-9555-ac4a30cc2d8c" height="150"/>
+>> <img src="https://github.com/user-attachments/assets/54dcf1ca-6ae3-4334-b666-fdf0195ead56" height="150"/>
 >
->> ### My Contributions
->>   #### Game Functions
+>>  ## Notable Contributions
+>>   ### 1. Bug Fixing
+>>    - I playtested the game several times after completing each task to find any errors before moving on to the next task, so I wouldn’t encounter any related issues while working on other tasks.
+>>    - In the end, I gathered feedback from various people to identify and fix unexpected bugs.
+>>    - Whenever I found a bug, if it was my task, I handled it. If it was my teammate’s task, I informed him to fix it.
+>>    - I created a 'Final Checklist' to quickly share bugs and small tasks with my teammate for polishing.
+>>    - Finally, we completed the game with 0 errors!
+>> 
+>>   <br />
+>>   <details>
+>>   <summary>Exemple 1 - Bug Fixing Process    (Click to open)</summary>
+>>   <img src="https://github.com/user-attachments/assets/5dbfdf69-e1f3-420a-b615-8b48f13a0a01" height="500"/>
+>>
+>>   I found a bug where the fish would spawn randomly, but always on an ascending diagonal. It was hard to notice because the map was too large to show all the fish position, but sometimes when I saw two fish on the screen, they were always positioned like this: '/'. I checked the blueprint and discovered that the x and y values for fish spawning were set to the same random number. I informed my teammate (since Fish Spawning was his task) so he could fix it.
+>>   </details>
+>>
+>>   <details>
+>>   <summary>Exemple 2 - Final Checklist    (Click to open)</summary>
+>>   <img src="https://github.com/user-attachments/assets/026d2e7e-57ca-4711-87d6-e7352b755920" height="500"/>
+>>   <img src="https://github.com/user-attachments/assets/3311e3d3-a30e-4337-939a-8562dd7a4152" height="500"/>
+>>
+>>   I created a 'Final Checklist' to quickly share bugs and small tasks with my teammate for polishing. This made it easier to track the progress of the final polishing.
+>>   </details>
+>> 
+>>   <br />
+>> 
+>>   ### 2. Convenient & Polished Shop System
+>>    - I've implemented an auto-fish-selecting system in shop for convenient and satisfying user experience.
+>>    - I switch menu fish-selling to upgrading when user sells all the fish.
+>>   
+>>   <br />
+>>   <details>
+>>   <summary>Exemple 1 - Auto-Fish-Selecting System    (Click to open)</summary>
+>>   <img src="https://github.com/user-attachments/assets/6f4ed697-9d02-4fde-a3e6-f4a2cb98929e" height="180"/>
+>>   <img src="https://github.com/user-attachments/assets/a05c82d4-4aff-49f6-8412-3c8c467d8706" height="180"/>
+>>
+>>   I thought some users might want to sell all their fish right away, and that it would feel satisfying to do so. So, I implemented an auto-fish-selecting system that automatically selects the next fish to sell from the top of the list after selling one.
+>>   </details>
+>>
+>>   <details>
+>>   <summary>Exemple 2 - Selling To Upgrading    (Click to open)</summary>
+>>   <img src="https://github.com/user-attachments/assets/6abaacc5-5d3d-4587-82ae-bc86c185dc7a" height="180"/>
+>>   <img src="https://github.com/user-attachments/assets/ef20ad19-cca3-45c8-8ae2-094d98afe742" height="180"/>
+>>
+>>   I thought some users also might want to upgrade all their fishing rod immediately after selling all the fish. So, I switch menu fish-selling to upgrading when user sells all the fish.
+>>   </details>
+>>
+>>   <br />
+>>
+>>   ## Other Contributions (Task Lists)
+>>   <details>
+>>   <summary>Game Functions</summary>
+>>
 >>     - Inventory:
+>>       - Switching categories (fish, equipment)
 >>       - Stack items
 >>       - Sort items
->>       - Implemented an automatic sorting system to reduce unnecessary tasks
->>       - Automatic selection of the next fish to sell
+>>       - Fishing rod information
 >>     - Shop:
 >>       - Sell items
 >>       - Sort items
+>>       - Automatic selection of the next fish to sell
 >>       - Upgrade fishing rod
 >>     - Interaction:
 >>       - Developed interaction mechanics with game elements
 >>     - Dialogue:
 >>       - Integrated dialogue system
+>>    </details>
 >>
->>   #### UI
->>     - Implemented UI for:
+>>   <details>
+>>   <summary>UI</summary>
+>>
+>>     - UI Implementation:
 >>       - Interaction
 >>       - Fishing success
 >>       - Fishing rod upgrading
@@ -71,29 +126,36 @@ Version Control Systems: **`Git`** **`GitHub`**
 >>       - Shop
 >>       - Title Scene
 >>     - UI Animations:
->>       - Added animations to enhance user experience and make gameplay more dynamic and engaging
+>>       - Added animations for all the above UI elements to enhance the user experience and make the gameplay more dynamic and engaging
+>>    </details>
 >>
->>   #### Sound Effects (SFX)
+>>   <details>
+>>   <summary>Sound Effects (SFX)</summary>
+>>
 >>     - Background Music (BGM)
 >>     - Fishing Failure Sound
 >>     - Inventory Sound
 >>     - Shop Sound
+>>   </details>
 >>
->>   #### Game Content Design
+>>   <details>
+>>   <summary>Game Content Design</summary>
+>>
 >>     - Secret Code:
 >>       - Created a secret code in the fish description
 >>     - Map Edge Collision Event:
 >>       - Designed an event for map edge collisions
+>>   </details>
 >>
->>   #### Miscellaneous
+>>   <details>
+>>   <summary>Miscellaneous</summary>
+>>
 >>     - Fish Data Structure:
 >>       - Designed data structures for fish entities
 >>     - Interaction Interface:
 >>       - Developed an interface for player interactions with game objects
->>     - Playtesting:
+>>     - Playtesting & Polishing:
 >>       - Conducted extensive playtesting to identify and resolve issues
->>     - Polishing:
->>       - Refined and optimized game elements for a smoother user experience
 >> </details>
 
 <br />
