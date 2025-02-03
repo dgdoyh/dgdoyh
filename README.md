@@ -164,10 +164,13 @@ Version Control Systems: **`Git`** **`GitHub`**
 
 > ## Cosmo Ranger
 >> ### Description
->> - Genre: 3D Third-Person RPG (Unity, C#)
+>> - Genre: 3D Third-Person RPG Prototype (Unity, C#)
 >> - Main repository: https://github.com/Manthan8567/Cosmo-Ranger (I worked as @sadoyh)
 >> - Status: Complete (Duration: 3 months)
 >> - Co-Contributors: @Manthan8567, @ocampo2001k
+>> - This is a school project for my Game Engine class in the fourth semester. The theme was "main effect/side effect," so we created three different scenes: Tutorial, Sand Planet, and Mars. Each planet has a different effect and its corresponding side effect. Since this is a programming-focused class, our team concentrated on building a game with rich content and functionality rather than prioritizing visuals, ensuring everything was error-free within the given timeframe.
+
+As the team lead, I managed the project’s progression, quality, and teamwork, addressing any issues that arose. I also implemented various systems, including an enemy state machine, leveling system, quests, dialogue, animations for enemies and NPCs, item spawning, and more. Also, I modified and connected the system components to ensure they worked seamlessly across all three scenes. (For further details, I’ve outlined my contributions in the “Contributions” section below.)
 >
 >> ### Gameplay Video 
 >> 
