@@ -56,15 +56,15 @@ Version Control Systems: **`Git`** **`GitHub`**
 >>   <br />
 >>   <details>
 >>   <summary>Exemple 1 - Bug Fixing Process    (Click to open)</summary>
->>   <img src="https://github.com/user-attachments/assets/5dbfdf69-e1f3-420a-b615-8b48f13a0a01" height="500"/>
+>>   <img src="https://github.com/user-attachments/assets/5dbfdf69-e1f3-420a-b615-8b48f13a0a01" height="400"/>
 >>
 >>   I found a bug where the fish would spawn randomly, but always on an ascending diagonal. It was hard to notice because the map was too large to show all the fish position, but sometimes when I saw two fish on the screen, they were always positioned like this: '/'. I checked the blueprint and discovered that the x and y values for fish spawning were set to the same random number. I informed my teammate (since Fish Spawning was his task) so he could fix it.
 >>   </details>
 >>
 >>   <details>
 >>   <summary>Exemple 2 - Final Checklist    (Click to open)</summary>
->>   <img src="https://github.com/user-attachments/assets/026d2e7e-57ca-4711-87d6-e7352b755920" height="500"/>
->>   <img src="https://github.com/user-attachments/assets/3311e3d3-a30e-4337-939a-8562dd7a4152" height="500"/>
+>>   <img src="https://github.com/user-attachments/assets/026d2e7e-57ca-4711-87d6-e7352b755920" height="300"/>
+>>   <img src="https://github.com/user-attachments/assets/3311e3d3-a30e-4337-939a-8562dd7a4152" height="300"/>
 >>
 >>   I created a 'Final Checklist' to quickly share bugs and small tasks with my teammate for polishing. This made it easier to track the progress of the final polishing.
 >>   </details>
