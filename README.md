@@ -2,7 +2,6 @@
 
 
 - Computer Science - Video Game Programming student at Collège LaSalle Montréal (DEC) <br />
-- Currently seeking a Gameplay/UI Programmer Internship <br />
 - Confident in identifying and fixing bugs 🔧 <br />
 
 <br />
@@ -34,6 +33,10 @@ Version Control Systems: **`Git`** **`GitHub`**
 >> - Genre: 3D Top-Down Fishing Game with a Secret (Unreal Engine, Blueprint)
 >> - Status: Completed (Duration: 1 month)
 >> - Co-Contributor: @Hariiiy
+>> 
+>> This is my first Unreal Engine project. My teammate and I developed this game for the Game Off 2024 game jam, and the theme was 'Secret.' For the theme, I assigned a different length to each fish and included a capital letter in each fish's description. If the player catches all the fish on the map and sorts the capital letters by the fish length, it spells 'U R IN A WHALE.'
+>>
+>> In one month, including the fish data structure, I implemented all functions and UI elements for the interaction system, inventory, shop, fishing rod upgrades, and game events such as a hint dialogue, fishing success, and fog interactions. I designed the UI with dynamic animations, keeping user convenience in mind. I also took care of the overall visuals of the game, including UI animations, color schemes, and 3D assets. Before submitting the game, I actively gathered feedback from others, created a final checklist, fixed bugs, and polished the game. Finally, we submitted the well-polished game and received a lot of positive feedback.
 >
 >> ## Gameplay Video 
 >> 
@@ -46,26 +49,9 @@ Version Control Systems: **`Git`** **`GitHub`**
 >> <img src="https://github.com/user-attachments/assets/54dcf1ca-6ae3-4334-b666-fdf0195ead56" height="150"/>
 >
 >>  ## Notable Contributions
->>   ### 1. Bug Fixing
->>    - I playtested the game several times after completing each task to find any errors before moving on to the next task, so I wouldn’t encounter any related issues while working on other tasks.
->>    - In the end, I gathered feedback from various people to identify and fix unexpected bugs.
->>    - Whenever I found a bug, if it was my task, I handled it. If it was my teammate’s task, I informed him to fix it.
->>    - I created a 'Final Checklist' to quickly share bugs and small tasks with my teammate for polishing.
->>    - Finally, we completed the game with 0 errors!
->>
->>   <details>
->>   <summary>Exemple - Final Checklist    (Click to open)</summary>
->>   <img src="https://github.com/user-attachments/assets/026d2e7e-57ca-4711-87d6-e7352b755920" height="300"/>
->>   <img src="https://github.com/user-attachments/assets/3311e3d3-a30e-4337-939a-8562dd7a4152" height="300"/>
->>
->>   I created a 'Final Checklist' to quickly share bugs and small tasks with my teammate for polishing. This made it easier to track the progress of the final polishing.
->>   </details>
 >> 
->>   <br />
->> 
->>   ### 2. Convenient & Polished Shop System
->>    - I've implemented an auto-fish-selecting system in shop for convenient and satisfying user experience.
->>    - I switch menu fish-selling to upgrading when user sells all the fish.
+>>   ### 1. Convenient & Polished Shop System
+>>   I've implemented an auto-fish selection system in the shop for a more convenient and satisfying user experience. Additionally, the shop menu switches from selling fish to upgrading when the user sells all the fish.
 >>   
 >>   <br />
 >>   <details>
@@ -83,6 +69,11 @@ Version Control Systems: **`Git`** **`GitHub`**
 >>
 >>   I thought some users also might want to upgrade all their fishing rod immediately after selling all the fish. So, I switch menu fish-selling to upgrading when user sells all the fish.
 >>   </details>
+>>
+>>   <br />
+>>
+>>   ### 2. Dynamic UI Animations
+>>   I added animations to all UI elements based on their positions to make the gameplay visually more satisfying.
 >>
 >>   <br />
 >>
@@ -160,8 +151,9 @@ Version Control Systems: **`Git`** **`GitHub`**
 >> - Main repository: https://github.com/Manthan8567/Cosmo-Ranger (I worked as @sadoyh)
 >> - Status: Complete (Duration: 3 months)
 >> - Co-Contributors: @Manthan8567, @ocampo2001k
->> - This is a school project for my Game Engine class in the fourth semester. The theme was "main effect/side effect," so we created three different scenes: Tutorial, Sand Planet, and Mars. Each planet has a different effect and its corresponding side effect. Since this is a programming-focused class, our team concentrated on building a game with rich content and functionality rather than prioritizing visuals, ensuring everything was error-free within the given timeframe.
->> - As the team lead, I managed the project’s progression, quality, and teamwork, addressing any issues that arose. I also implemented various systems, including an enemy state machine, leveling system, quests, dialogue, animations for enemies and NPCs, item spawning, UI and more. Also, I modified and connected the system components to ensure they worked seamlessly across all three scenes. (For further details, I’ve outlined my contributions in the “Contributions” section below.)
+>> This is a school project for my Game Engine class in the fourth semester. The theme was "main effect/side effect," so we created three different scenes: Tutorial, Sand Planet, and Mars. Each planet has a different effect and its corresponding side effect. Player can move to the next planet after complete the quest of the current planet. Since this is a programming-focused class, our team concentrated on building a game with rich content and functionality rather than prioritizing visuals, ensuring everything was error-free within the given timeframe.
+>> As the team lead, I managed the project’s progress, quality, and teamwork, addressing any issues that arose. I actively communicate to teammates to improve our teamwork and productivity.
+>> As a programmer, I have implemented an enemy state machine, character health, leveling system, quest system, dialogues, animations for enemies and NPCs, Mars effects, item spawning, UI, and sound effects. I also connected the game components and data across all three scenes. 
 >
 >> ### Gameplay Video 
 >> 
@@ -175,7 +167,7 @@ Version Control Systems: **`Git`** **`GitHub`**
 >
 >>  ## Notable Contributions
 >>   ### 1. Integration of All Game Elements and Features
->>    - I modified and integrated the features to ensure they could be used across all the scenes and with other features.
+>>   I modified and integrated the features to ensure they could be used across all the scenes and with other features.
 >> 
 >>   <br />
 >>   <details>
