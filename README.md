@@ -36,7 +36,7 @@ Version Control Systems: **`Git`** **`GitHub`**
 >> 
 >> This is my first Unreal Engine project. My teammate and I developed this game for the Game Off 2024 game jam, and the theme was 'Secret.' For the theme, I assigned a different length to each fish and included a capital letter in each fish's description. If the player catches all the fish on the map and sorts the capital letters by the fish length, it spells 'U R IN A WHALE.'
 >>
->> In one month, including the fish data structure, I implemented all functions and UI elements for the interaction system, inventory, shop, fishing rod upgrades, and game events such as a hint dialogue, fishing success, and fog interactions. I designed the UI with dynamic animations, keeping user convenience in mind. I also took care of the overall visuals of the game, including UI animations, color schemes, and 3D assets. Before submitting the game, I actively gathered feedback from others, created a final checklist, fixed bugs, and polished the game. Finally, we submitted the well-polished game and received a lot of positive feedback.
+>> In one month, including the fish data structure, I implemented all functions and UI elements for the interaction system, inventory, shop, fishing rod upgrades, and game events such as a hint dialogue, fishing success, and fog interactions. I designed the UI with dynamic animations, keeping user convenience in mind. I also took care of the overall visuals and sounds of the game, including UI animations and color schemes. Before submitting the game, I actively gathered feedback from others, created a final checklist, fixed bugs, and polished the game. Finally, we submitted the well-polished game and received a lot of positive feedback.
 >
 >> ## Gameplay Video 
 >> 
@@ -48,9 +48,9 @@ Version Control Systems: **`Git`** **`GitHub`**
 >> <img src="https://github.com/user-attachments/assets/5ee45088-eb6f-412f-9844-5ff7735357f3" height="150"/>
 >> <img src="https://github.com/user-attachments/assets/54dcf1ca-6ae3-4334-b666-fdf0195ead56" height="150"/>
 >
->>  ## Notable Contributions
+>>  ## Notable Contribution
 >> 
->>   ### 1. Convenient & Polished Shop System
+>>   ### Convenient & Polished Shop System
 >>   I've implemented an auto-fish selection system in the shop for a more convenient and satisfying user experience. Additionally, the shop menu switches from selling fish to upgrading when the user sells all the fish.
 >>   
 >>   <br />
@@ -69,78 +69,6 @@ Version Control Systems: **`Git`** **`GitHub`**
 >>
 >>   I thought some users also might want to upgrade all their fishing rod immediately after selling all the fish. So, I switch menu fish-selling to upgrading when user sells all the fish.
 >>   </details>
->>
->>   <br />
->>
->>   ### 2. Dynamic UI Animations
->>   I added animations to all UI elements based on their positions to make the gameplay visually more satisfying.
->>
->>   <br />
->>
->>   ## Other Contributions (Task Lists)
->>   <details>
->>   <summary>Game Functions</summary>
->>
->>     - Inventory:
->>       - Switching categories (fish, equipment)
->>       - Stack items
->>       - Sort items
->>       - Fishing rod information
->>     - Shop:
->>       - Sell items
->>       - Sort items
->>       - Automatic selection of the next fish to sell
->>       - Upgrade fishing rod
->>     - Interaction:
->>       - Developed interaction mechanics with game elements
->>     - Dialogue:
->>       - Integrated dialogue system
->>    </details>
->>
->>   <details>
->>   <summary>UI</summary>
->>
->>     - Interaction
->>     - Fishing success
->>     - Fishing rod upgrading
->>     - Dialogue
->>     - Inventory
->>     - Shop
->>     - Title Scene
->>     - UI Animations:
->>       - Added various UI animations for each UI element (except the fishing UI) to make the gameplay more dynamic and engaging.
->>     - Character Scene Captures:
->>       - Added player/vendor scene capture next to dialogue box for an immersive conversation.
->>    </details>
->>
->>   <details>
->>   <summary>Sound Effects (SFX)</summary>
->>
->>     - Background Music (BGM)
->>     - Fishing Failure Sound
->>     - Inventory Sound
->>     - Shop Sound
->>   </details>
->>
->>   <details>
->>   <summary>Game Content Design</summary>
->>
->>     - Secret Code:
->>       - Created a secret code in the fish description for the theme of the game jam: Secret
->>     - Map Edge Collision Event:
->>       - Designed an event for map edge collisions
->>   </details>
->>
->>   <details>
->>   <summary>Miscellaneous</summary>
->>
->>     - Fish Data Structure:
->>       - Designed data structures for fish entities
->>     - Interaction Interface:
->>       - Developed an interface for player interactions with game objects
->>     - Playtesting & Polishing:
->>       - Conducted extensive playtesting to identify and resolve issues
->> </details>
 
 <br />
 <br />
@@ -151,9 +79,14 @@ Version Control Systems: **`Git`** **`GitHub`**
 >> - Main repository: https://github.com/Manthan8567/Cosmo-Ranger (I worked as @sadoyh)
 >> - Status: Complete (Duration: 3 months)
 >> - Co-Contributors: @Manthan8567, @ocampo2001k
->> This is a school project for my Game Engine class in the fourth semester. The theme was "main effect/side effect," so we created three different scenes: Tutorial, Sand Planet, and Mars. Each planet has a different effect and its corresponding side effect. Player can move to the next planet after complete the quest of the current planet. Since this is a programming-focused class, our team concentrated on building a game with rich content and functionality rather than prioritizing visuals, ensuring everything was error-free within the given timeframe.
+>> 
+>> This is a school project for my Game Engine class in the fourth semester. The theme was "main effect/side effect," so we created three different scenes: Tutorial, Sand Planet, and Mars. Each planet has a different effect and its corresponding side effect. The player can move to the next planet after completing the quest on the current planet. Since this is a programming-focused class, our team concentrated on building a game with rich content and functionality rather than prioritizing visuals, ensuring everything was error-free within the given timeframe.
+>> 
 >> As the team lead, I managed the project’s progress, quality, and teamwork, addressing any issues that arose. I actively communicate to teammates to improve our teamwork and productivity.
->> As a programmer, I have implemented an enemy state machine, character health, leveling system, quest system, dialogues, animations for enemies and NPCs, Mars effects, item spawning, UI, and sound effects. I also connected the game components and data across all three scenes. 
+>> 
+>> As a programmer, I implemented an enemy state machine and animations (for enemies and NPCs) using ragdoll physics. When an enemy dies, it does so with natural and dynamic animations due to the ragdoll, spawns an diamond, and the player gains EXP points. I also developed a quest system where the player earns EXP points by completing quests on different planets, unlocking the portal (or spaceship) to progress to the next planet. I have created EXP manager singleton so player's EXP could be saved through the different scenes. Additionally, I implemented dialogues, cinematics, main menu, character health, UI, sound effects, and a health-reducing event on the Sand Planet.
+>> 
+>> We worked on different scenes to implement each task. Whenever my teammates finished and pushed their work, I tested it and integrated it to ensure the features could be used across all scenes. (e.g. One of my teammates pushed the interaction system, which only worked with a vending machine. I modified the code structure so it could be used with all other NPCs and game objects.)
 >
 >> ### Gameplay Video 
 >> 
@@ -165,129 +98,15 @@ Version Control Systems: **`Git`** **`GitHub`**
 >> <img src="https://github.com/user-attachments/assets/f4947431-e36f-4a3b-b32b-8843a5aac6ac" height="150"/>
 >> <img src="https://github.com/user-attachments/assets/be311eb0-4db6-4cf3-a150-8dd57e277b75" height="150"/>
 >
->>  ## Notable Contributions
->>   ### 1. Integration of All Game Elements and Features
->>   I modified and integrated the features to ensure they could be used across all the scenes and with other features.
+>>  ## Notable Contribution
+>>   ### Problem Solving in Teamwork
+>>   We had some issues in teamwork. As a team lead, I actively solve the problems through honest conversations.
 >> 
 >>   <br />
 >>   <details>
->>   <summary>Example - Integration of Interation System    (Click to open)</summary>
+>>   <summary>Detailed Story (Click to open)</summary>
 >>
->>   We worked on different scenes to implement each task. Whenever my teammates finished and pushed their work, I tested it and integrated it to ensure the features could be used across all the scenes. For example, one of my teammates pushed the interaction system, which only worked with a vending machine. I modified the code structure so it could be used with all the other NPCs and game objects.
->>   </details>
->>
->>   <br />
->>
->>   ### 2. Problem Solving in Teamwork
->>    - We had some issues in teamwork.
->>    - As a team lead, I actively solve the problems through honest conversations.
->>    - As a result, my teammates became more active in communication, and we ended up with a final grade of 95/100.
->> 
->>   <br />
->>   <details>
->>   <summary>Example - When a teammate did not finish their task    (Click to open)</summary>
->>
->>   During the first three weeks, my teammates weren't as active or cooperative as I was. They often didn't respond to my messages and failed to complete the tasks assigned to them each week. So, I asked them to react (with a thumbs-up icon) to my messages, so I could at least know whether they had read them. I also encouraged them to share any struggles they were facing or let me know if they couldn't complete certain tasks, so we could help each other resolve the issues or adjust the plan accordingly. I knew I couldn't force them to work the way I do, but I felt it was important for all of us to stay on the same page and understand how the project was progressing. 
->>   </details>
->>
->>   <br />
->>
->>   ### 3. Bug Fixing & Polishing
->>    - I set the final testing date ahead of the actual presentation date.
->>    - We found some small bugs during the final test, and I fixed all of them while polishing the overall game.
->>    - Finally, we completed and presented our game with 0 significant errors.
->> 
->>   <br />
->>   <details>
->>   <summary>Example - Final Testing & Polishing   (Click to open)</summary>
->>
->>   I thought we should do the final test at least two days before presenting the project. I decided to polish the project for two days before submitting it because I was the one who knew most of the systems in our game. So, I asked my teammates to complete their final tasks by the testing day. During the final test, we found some small bugs, and I fixed all of them while polishing the overall game. As a result, we finally presented it with no significant errors.
->>   </details>
->>
->>   <br />
->>
->>   ## Other Contributions (Task Lists)
->>   <details>
->>   <summary>Game Functions</summary>
->>
->>     - Character Movement
->>     - Enemy State Machine:
->>       - Patrolling
->>       - Chasing
->>       - Attacking
->>       - Taking damage
->>       - Death
->>     - HP and EXP Management
->>     - Scene Switching with Player Stats Data
->>     - Enemy Item Spawning
->>     - HP-Reducing Events with Timer
->>     - Leveling Up & Player Stats Update:
->>       - Leveling up and updating stats based on level
->>     - Quests
->>     - Dialogues
->>   </details>
->>
->>   <details>
->>   <summary>Animations</summary>
->>
->>     - Enemy Animations:
->>       - Death (using ragdoll)
->>       - Walking
->>       - Running
->>       - Attacking
->>       - Getting Damaged
->>   </details>
->>
->>   <details>
->>   <summary>UI</summary>
->>
->>     - Game Guide
->>     - Main Menu
->>     - Pause Menu
->>     - Dialogue Box
->>     - Quest Progression
->>     - HP/EXP Bars
->>   </details>
->>
->>   <details>
->>   <summary>Visual Effects (VFX)</summary>
->>
->>     - Damage Effect
->>     - Heal Effect
->>   </details>
->>
->>   <details>
->>   <summary>Sound Effects (SFX)</summary>
->>
->>     - Character Voices
->>     - Attacking Sounds
->>     - Damaging Sounds
->>     - Healing Sounds
->>     - Leveling Up Sound
->>     - Weapon Upgrade Sound
->>     - Background Music (BGM)
->>   </details>
->>
->>   <details>
->>   <summary>Game Content Design</summary>
->>
->>     - Tutorial Scene
->>     - Game Concept
->>       - Planets with different events
->>   </details>
->> 
->>   <details>
->>   <summary>Miscellaneous</summary>
->>
->>     - Cinematics
->>     - Playtesting & Polishing:
->>       - Conducting playtests
->>       - Fixing bugs
->>       - Polishing the game
->>     - Team Leadership:
->>       - Leading the team
->>       - Managing project progression
->>       - Solving teamwork problems through communication
+>>   During the first three weeks, my teammates weren't as active or cooperative as I was. They often didn't respond to my messages and failed to complete the tasks assigned to them each week. So, I asked them to react (with a thumbs-up icon) to my messages, so I could at least know whether they had read them. I also encouraged them to share any struggles they were facing or let me know if they couldn’t complete certain tasks, so we could help each other resolve the issues or adjust the plan accordingly. I knew I couldn’t force them to work the way I do, but I thought it was important to know the progress of our project and the situations of my teammates, so we could rearrange the plan and work based on the current circumstances. Therefore, I emphasized the importance of sharing their situations.
 >>   </details>
 
 <br />
@@ -296,9 +115,14 @@ Version Control Systems: **`Git`** **`GitHub`**
 > ## Chiling Island (In Progress)
 >> ### Description
 >> - Genre: 3D Third-Person Survival Game (Unreal Engine, C++)
->> - Note: This project is in progress. I've implemented animations based on various player statuses and weapon types so far.
 >> - Status: In progress
 >> - Co-Contributors: None
+>> 
+>> This is my personal project, which I am currently working on exclusively for my portfolio.
+>>
+>> So far, I have implemented player movement with dynamic animations based on various player statuses and weapon types (one-handed and two-handed). For a more natural look, I adjusted bone positions in animations (e.g., grabbing a weapon while jumping) and implemented foot IK. The player can also arm and unarm a weapon at a different socket position based on the weapon type. Each weapon has two types of attack motions, and they are randomly played each time the player attacks.
+>>
+>> I have implemented dynamic sound effects for footsteps and attacks. The sound effect, volume, and pitch are randomly generated to create more dynamic audio experiences.
 >
 >> ### Gameplay Video 
 >> 
@@ -308,49 +132,7 @@ Version Control Systems: **`Git`** **`GitHub`**
 >>
 >> <img src="https://github.com/user-attachments/assets/c368fa86-cbc9-4393-9b56-22520f30da20" height="150"/>
 >> <img src="https://github.com/user-attachments/assets/7ca64a70-554c-4e88-b7d5-441f27bde8aa" height="150"/>
->
->>   ## My Contributions (Task Lists)
->>   <details>
->>   <summary>Game Functions</summary>
->>
->>     - Character Movement
->>     - Player States:
->>       - Idle
->>       - Armed
->>       - Disarmed
->>       - Attacking
->>       - Jumping
->>       - Falling
->>   </details>
->>
->>   <details>
->>   <summary>Animations</summary>
->>
->>     - Player Animations:
->>       - Idle Animations:
->>         - Unarmed
->>         - One-handed armed
->>         - Two-handed armed
->>       - Running Animation
->>       - Jumping Animations:
->>         - Idle Jump
->>         - Running Jump
->>       - Attacking Animations:
->>         - Random attacks based on equipped weapon
->>       - Arming Animations:
->>         - One-handed
->>         - Two-handed
->>       - Disarming Animations:
->>         - One-handed
->>         - Two-handed
->>   </details>
->>
->>   <details>
->>   <summary>Miscellaneous</summary>
->>
->>     - Created Landscape
->>     - Landscape Painting
->>   </details>
+>> <img src="https://github.com/user-attachments/assets/20218311-50fc-4d29-9c2a-2f9aaca4ac6c" height="150"/>
 
 <br />
 <br />
@@ -360,6 +142,8 @@ Version Control Systems: **`Git`** **`GitHub`**
 >> - Genre: 2D Maze Game (WinForms, C#)
 >> - Status: Completed (Duration: 1 month)
 >> - Co-Contributors: None
+>>
+>> This is my school project for the Object-Oriented Programming 2 class. The goal of this project was to create a maze game using the A-star algorithm, with a given text file (for the map) and image sources. I created a tile base object and derived different objects (e.g., wall, empty tile, player tile) from it. I implemented all the required functions, including pathfinding using A-start algorithm, wall breaking, generating random enemies and food, taking damage, healing, game over, game clear, and switching the player image based on the direction of movement.
 >
 >> ### Gameplay Video 
 >> 
@@ -369,27 +153,3 @@ Version Control Systems: **`Git`** **`GitHub`**
 >>
 >> <img src="https://github.com/user-attachments/assets/43af551e-4c61-49b8-aaf7-76c01e829508" height="150"/>
 >> <img src="https://github.com/user-attachments/assets/2552ea7d-b1d1-41ea-b090-6227d90d147e" height="150"/>
->
->>   ## My Contributions (Task Lists)
->>   <details>
->>   <summary>Game Functions</summary>
->>
->>     - Drawing Map Based on Text File
->>       - Used text file data to generate game maps dynamically
->>     - Character Movement
->>       - Developed mechanics for character movement within the game
->>     - Pathfinding
->>       - Implemented A* algorithm for efficient pathfinding
->>     - Game Events:
->>       - Getting Damaged
->>       - Healing
->>       - Wall Breaking
->>       - Game Over
->>       - Game Completion
->>   </details>
->> 
->>   <details>
->>   <summary>Miscellaneous</summary>
->>
->>     - Player Images Based on Directions
->>   </details>
