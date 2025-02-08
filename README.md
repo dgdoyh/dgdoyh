@@ -34,9 +34,9 @@ Version Control Systems: **`Git`** **`GitHub`**
 >> - Status: Completed (Duration: 1 month)
 >> - Co-Contributor: @Hariiiy
 >> 
->> This is my first Unreal Engine project. My teammate and I developed this game for the Game Off 2024 game jam, and the theme was 'Secret.' For the theme, I assigned a different length to each fish and included a capital letter in each fish's description. If the player catches all the fish on the map and sorts the capital letters by the fish length, it spells 'U R IN A WHALE.'
+>> This is my first Unreal Engine project. My teammate and I developed this game for the Game Off 2024 game jam, and the theme was '**Secret**.' For the theme, I assigned a different length to each fish and included a capital letter in each fish's description. If the player catches all the fish on the map and sorts the capital letters by the fish length, it spells '*U R IN A WHALE.*'
 >>
->> In one month, including the fish data structure, I implemented all functions and UI elements for the interaction system, inventory, shop, fishing rod upgrades, and game events such as a hint dialogue, fishing success, and fog interactions. I designed the UI with dynamic animations, keeping user convenience in mind. I also took care of the overall visuals and sounds of the game, including UI animations and color schemes. Before submitting the game, I actively gathered feedback from others, created a final checklist, fixed bugs, and polished the game. Finally, we submitted the well-polished game and received a lot of positive feedback.
+>> In one month, including the fish data structure, I implemented all functions and UI elements for the **interaction system, inventory, shop, fishing rod upgrades**, and game events such as a **hint dialogue, fishing success, and fog interactions**. I designed the UI with **dynamic animations**, keeping **user convenience** in mind. I also took care of the overall visuals and sounds of the game. Before submitting the game, I actively gathered feedback from others, created a final checklist, fixed bugs, and polished the game. Finally, we submitted the well-polished game and received a lot of positive feedback.
 >
 >> ## Gameplay Video 
 >> 
@@ -55,7 +55,7 @@ Version Control Systems: **`Git`** **`GitHub`**
 >>   
 >>   <br />
 >>   <details>
->>   <summary>Exemple 1 - Auto-Fish-Selecting System    (Click to open)</summary>
+>>   <summary>Auto-Fish-Selecting System    (Click to open)</summary>
 >>   <img src="https://github.com/user-attachments/assets/6f4ed697-9d02-4fde-a3e6-f4a2cb98929e" height="200"/>
 >>   <img src="https://github.com/user-attachments/assets/a05c82d4-4aff-49f6-8412-3c8c467d8706" height="200"/>
 >>
@@ -63,11 +63,11 @@ Version Control Systems: **`Git`** **`GitHub`**
 >>   </details>
 >>
 >>   <details>
->>   <summary>Exemple 2 - Selling To Upgrading    (Click to open)</summary>
+>>   <summary>Selling To Upgrading    (Click to open)</summary>
 >>   <img src="https://github.com/user-attachments/assets/6abaacc5-5d3d-4587-82ae-bc86c185dc7a" height="200"/>
 >>   <img src="https://github.com/user-attachments/assets/ef20ad19-cca3-45c8-8ae2-094d98afe742" height="200"/>
 >>
->>   I thought some users also might want to upgrade all their fishing rod immediately after selling all the fish. So, I switch menu fish-selling to upgrading when user sells all the fish.
+>>   I thought some users might want to upgrade all their fishing rod immediately after selling all the fish. So, I switch menu fish-selling to upgrading when user sells all the fish.
 >>   </details>
 
 <br />
@@ -80,13 +80,13 @@ Version Control Systems: **`Git`** **`GitHub`**
 >> - Status: Complete (Duration: 3 months)
 >> - Co-Contributors: @Manthan8567, @ocampo2001k
 >> 
->> This is a school project for my Game Engine class in the fourth semester. The theme was "main effect/side effect," so we created three different scenes: Tutorial, Sand Planet, and Mars. Each planet has a different effect and its corresponding side effect. The player can move to the next planet after completing the quest on the current planet. Since this is a programming-focused class, our team concentrated on building a game with rich content and functionality rather than prioritizing visuals, ensuring everything was error-free within the given timeframe.
+>> This is a school project for my Game Engine class in the fourth semester. The theme was "**main effect/side effect**," so we created three different scenes: *Tutorial, Sand Planet, and Mars*. Each planet has a different effect and its corresponding side effect. The player can move to the next planet after completing the quest on the current planet. Since this is a programming-focused class, our team concentrated on building a game with **rich content and functionality** rather than prioritizing visuals, ensuring everything was **error-free** within the given timeframe.
 >> 
->> As the team lead, I managed the project’s progress, quality, and teamwork, addressing any issues that arose. I actively communicate to teammates to improve our teamwork and productivity.
+>> As the team lead, I managed the project’s **progress, quality, and teamwork**, addressing any issues that arose. I actively communicate to teammates to improve our teamwork and productivity.
 >> 
->> As a programmer, I implemented an enemy state machine and animations (for enemies and NPCs) using ragdoll physics. When an enemy dies, it does so with natural and dynamic animations due to the ragdoll, spawns an diamond, and the player gains EXP points. I also developed a quest system where the player earns EXP points by completing quests on different planets, unlocking the portal (or spaceship) to progress to the next planet. I have created EXP manager singleton so player's EXP could be saved through the different scenes. Additionally, I implemented dialogues, cinematics, main menu, character health, UI, sound effects, and a health-reducing event on the Sand Planet.
+>> As a programmer, I implemented an **enemy state machine and animations (for enemies and NPCs)** using **ragdoll** physics. When an enemy dies, it does so with natural and dynamic animations due to the ragdoll, spawns an diamond, and the player gains EXP points. I also developed a **quest system** where the player earns EXP points by completing quests on different planets, unlocking the portal (or spaceship) to progress to the next planet. I have created **EXP manager** singleton so player's EXP could be saved through the different scenes. Additionally, I implemented **dialogues, cinematics, main menu, character health, UI, sound effects, and a health-reducing event** on the Sand Planet.
 >> 
->> We worked on different scenes to implement each task. Whenever my teammates finished and pushed their work, I tested it and integrated it to ensure the features could be used across all scenes. (e.g. One of my teammates pushed the interaction system, which only worked with a vending machine. I modified the code structure so it could be used with all other NPCs and game objects.)
+>> We worked on different scenes to implement each task. Whenever my teammates finished and pushed their work, I **tested** it and **integrated** it to ensure the features could be used across all scenes. (e.g. One of my teammates pushed the interaction system, which only worked with a vending machine. I modified the code structure so it could be used with all other NPCs and game objects.)
 >
 >> ### Gameplay Video 
 >> 
@@ -120,9 +120,9 @@ Version Control Systems: **`Git`** **`GitHub`**
 >> 
 >> This is my personal project, which I am currently working on exclusively for my portfolio.
 >>
->> So far, I have implemented player movement with dynamic animations based on various player statuses and weapon types (one-handed and two-handed). For a more natural look, I adjusted bone positions in animations (e.g., grabbing a weapon while jumping) and implemented foot IK. The player can also arm and unarm a weapon at a different socket position based on the weapon type. Each weapon has two types of attack motions, and they are randomly played each time the player attacks.
+>> So far, I have implemented **player movement with dynamic animations** based on **various player statuses and weapon types (one-handed and two-handed)**. For a more natural look, I adjusted bone positions in animations (e.g., grabbing a weapon while jumping) and implemented **foot IK**. The player can also arm and unarm a weapon at a different socket position based on the weapon type. Each weapon has two types of attack motions, and they are randomly played each time the player attacks.
 >>
->> I have implemented dynamic sound effects for footsteps and attacks. The sound effect, volume, and pitch are randomly generated to create more dynamic audio experiences.
+>> I have implemented **dynamic sound effects** for footsteps and attacks. The sound effect, volume, and pitch are randomly generated to create more dynamic audio experiences.
 >
 >> ### Gameplay Video 
 >> 
@@ -143,7 +143,7 @@ Version Control Systems: **`Git`** **`GitHub`**
 >> - Status: Completed (Duration: 1 month)
 >> - Co-Contributors: None
 >>
->> This is my school project for the Object-Oriented Programming 2 class. The goal of this project was to create a maze game using the A-star algorithm, with a given text file (for the map) and image sources. I created a tile base object and derived different objects (e.g., wall, empty tile, player tile) from it. I implemented all the required functions, including pathfinding using A-start algorithm, wall breaking, generating random enemies and food, taking damage, healing, game over, game clear, and switching the player image based on the direction of movement.
+>> This is my school project for the Object-Oriented Programming 2 class. The goal of this project was to create a maze game using the A-star algorithm, with a given text file (for the map) and image sources. I created a tile base object and derived different objects (e.g., wall, empty tile, player tile) from it. I implemented all the required functions, including **pathfinding using A-start algorithm, wall breaking, generating random enemies and food, taking damage, healing, game over, game clear, and switching the player image** based on the direction of movement.
 >
 >> ### Gameplay Video 
 >> 
