@@ -114,7 +114,7 @@ Version Control Systems: **`Git`** **`GitHub`**
 
 > ## Chiling Island (In Progress)
 >> ### Description
->> - Genre: 3D Third-Person Survival Game (Unreal Engine, C++)
+>> - Genre: 3D Third-Person Animation Prototype (Unreal Engine, C++)
 >> - Status: In progress
 >> - Co-Contributors: None
 >> 
