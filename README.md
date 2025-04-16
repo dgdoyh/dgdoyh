@@ -2,7 +2,7 @@
 
 
 - Computer Science - Video Game Programming student at Collège LaSalle Montréal (DEC) <br />
-- Confident in creative problem solving 🔧 <br />
+- Confident in creative problem-solving 🔧 <br />
 - Currently working on my school final project: Restaurant Full Moon (2025 Feb ~ PRESENT) <br />
 
 <br />
