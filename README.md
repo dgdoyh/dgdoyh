@@ -2,12 +2,14 @@
 
 
 - Computer Science - Video Game Programming student at Collège LaSalle Montréal (DEC) <br />
-- Confident in identifying and fixing bugs 🔧 <br />
+- Confident in creative problem solving 🔧 <br />
+- Currently working on my school final project: Restaurant Full Moon (2025 Feb ~ PRESENT) <br />
 
 <br />
-If you're looking for a cooperative & detail-oriented intern, I'm here for you! <br />
 
 📩 LinkedIn: [https://www.linkedin.com/in/yonhi-do/](https://www.linkedin.com/in/yonhi-do/)
+
+
 
 ---
 
