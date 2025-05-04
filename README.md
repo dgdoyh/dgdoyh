@@ -29,6 +29,52 @@ Version Control Systems: **`Git`** **`GitHub`**
 
 ## Projects
 
+> ## Restaurant Full Moon
+>> ## Description
+>> - Genre: 2D/3D Restaurant Tycoon Game (Unity, C#)
+>> - Status: Completed (Duration: 3 months)
+>> - Co-Contributor: @Hariiiy
+>>
+>> Make burgers correctly, pay rent, and don’t get caught. If you fail, it’s game over.
+>> 
+>> This is my final school project for the Design Patterns class. I implemented all core functions, UI, SFX, and VFX in the kitchen scene using various design patterns (e.g., Singleton, Observer, and Chain of Responsibility). I also created some 3D models in Maya and made sequential animations for certain kitchen objects and all UI elements.
+>> 
+>> The game is inspired by *The WereCleaner*.
+>>
+>>   <br />
+>>   <details>
+>>   <summary>All Functions I've Implemented    (Click to open)</summary>
+>>
+>>   - Ingredient and recipe data structures
+>>   - Randomly generated recipes
+>>   - Ingredient picking and placing
+>>   - Timers (Daytime, Cooking, Grill)
+>>   - Sequential animations for kitchen objects and UI
+>>   - Recipe check
+>>   - Price calculation based on recipe and cook time
+>>   - Grill state machine (raw -> cooked -> burnt)
+>>   - Persistent game data across different scenes
+>>   
+>>   </details>
+>>   <br />
+>>   <details>
+>>   <summary>3D models I've made    (Click to open)</summary>
+>>
+>>   - Ingredients (sliced tomato, sliced cabbage, buns, raw/cooked/burnt patty)
+>>   - Food refrigerator and containers
+>>   - Tables
+>>   - Grill
+>>   
+>>   </details>
+>
+>> ## Screenshots
+>>
+>> <img src="https://github.com/user-attachments/assets/211e5d8b-9252-46dd-9b50-ff8b97cb0421" height="150"/>
+>> <img src="https://github.com/user-attachments/assets/7a392032-956c-4bb7-911c-d7d29aa5ac85" height="150"/>
+>> <img src="https://github.com/user-attachments/assets/a98a2f73-260d-4ccc-b64b-d61a54c69268" height="150"/>
+>
+>
+
 > ## Fishin
 >> ## Description
 >> - Submitted to *Game Off 2024 by GitHub, Lee Reilly* (https://itch.io/jam/game-off-2024/rate/3147780)
