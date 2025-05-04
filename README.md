@@ -36,7 +36,7 @@ Version Control Systems: **`Git`** **`GitHub`**
 >>
 >> Make burgers correctly, pay rent, and don’t get caught. If you fail, it’s game over.
 >> 
->> This is my final school project for the Design Patterns class. I implemented all core functions, UI, SFX, and VFX in the kitchen scene using various design patterns (e.g., Singleton, Observer, and Chain of Responsibility). I also created some 3D models in Maya and made sequential animations for certain kitchen objects and all UI elements.
+>> This is my final school project for the Design Patterns class. I implemented all functions, UI, SFX, and VFX in the kitchen scene using various design patterns (e.g., Singleton, Observer, and Chain of Responsibility). I also created some 3D models in Maya and made sequential animations for certain kitchen objects and all UI elements.
 >> 
 >> The game is inspired by *The WereCleaner*.
 >>
