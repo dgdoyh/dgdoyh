@@ -1,8 +1,6 @@
 # Yonhi Do (a.k.a. dgdoyh)
 
-
-- Technical Animator Intern at EA (2025 May - Present)
-- Computer Science - Video Game Programming student at Collège LaSalle Montréal (DEC) <br />
+- Cooperative / Fast-Learning / Detail-Oriented
 - Confident in creative problem-solving 🔧 <br />
 
 <br />
