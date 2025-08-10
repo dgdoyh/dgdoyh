@@ -27,7 +27,7 @@ Version Control Systems: **`Git`** **`GitHub`**
 
 ## Projects
 
-> ## Restaurant Full Moon
+> ## Restaurant Fullmoon
 >> ## Description
 >> - Genre: 2D/3D Restaurant Tycoon Game (Unity, C#)
 >> - Status: Completed (Duration: 3 months)
@@ -65,6 +65,10 @@ Version Control Systems: **`Git`** **`GitHub`**
 >>   
 >>   </details>
 >
+>> ## Gameplay Video 
+>> 
+>> [![Restaurant Fullmoon - Gameplay](https://ytcards.demolab.com/?id=dnxNoq7a_i4&title=Restaurant+Fullmoon+-+Gameplay&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=400&border_radius=5&duration=200 "Restaurant Fullmoon - Gameplay")](https://www.youtube.com/watch?v=dnxNoq7a_i4)
+>
 >> ## Screenshots
 >>
 >> <img src="https://github.com/user-attachments/assets/211e5d8b-9252-46dd-9b50-ff8b97cb0421" height="150"/>
@@ -93,7 +97,7 @@ Version Control Systems: **`Git`** **`GitHub`**
 >>
 >> <img src="https://github.com/user-attachments/assets/d541c511-073b-4f0c-bb28-4e238b8fc661" height="150"/>
 >> <img src="https://github.com/user-attachments/assets/5ee45088-eb6f-412f-9844-5ff7735357f3" height="150"/>
->> <img src="https://github.com/user-attachments/assets/54dcf1ca-6ae3-4334-b666-fdf0195ead56" height="150"/>
+>> <img src="https://github.com/user-attachments/assets/e9da8082-82b3-4e99-8ffb-0a00ab7f94b2" height="150"/>
 >
 >>  ## Notable Contribution
 >> 
